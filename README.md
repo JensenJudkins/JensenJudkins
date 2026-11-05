@@ -51,6 +51,51 @@ I'm **Jensen**, a network engineer and developer at **[Air2Data](https://air2dat
 
 ---
 
+## 🔬 Featured research
+
+Course finals and briefs from my graduate and undergraduate work at Utah State University (Center for Anticipatory Intelligence, Computer Science).
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://docs.google.com/document/d/1mnwGk3_yvZOasZcw4_gjPLqs6mSdnCifjs21l3TDK1Q/edit?usp=sharing">🛸 Ukraine's Drone Arms Race</a></h3>
+      <p>How low-cost UAS and battlefield adaptation are eroding U.S. military advantages, and what that means for force structure, counter-UAS and procurement.</p>
+      <p><sub>CAI 5000 · Dec 2024</sub></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://docs.google.com/document/d/15s0rW9HP7aPLOYpc24uTVbBJVUN4qMbn8hBxn0JzGuY/edit?usp=sharing">🛰️ Satellite Jamming</a></h3>
+      <p>Jamming as both a tactical capability and an escalation vector, and its implications for space resilience, deterrence and policy.</p>
+      <p><sub>CAI 5540 · Dec 2024</sub></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://docs.google.com/document/d/1u2HnRx7dAJJJRPKuQTdh-KELjDgvy51vdzDrEE8Qa-k/edit?usp=drive_link">💊 New Zealand: Resisting Opioid Harms</a></h3>
+      <p>Applied the CIA's Cultural Topography method to explain New Zealand's resilience to opioid harms and what transfers to the U.S.</p>
+      <p><sub>CAI 5310</sub></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>☢️ Israel's WMD Outlook 2025–2030</h3>
+      <p>A strategic-ambiguity analysis of Israel's nuclear posture and hostile neighbors, written as a policy brief for NATO decision makers.</p>
+      <p><sub>CAI 6530</sub></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://docs.google.com/document/d/1fujkmDhpluQwopIO22uWDYjPQv47Z1pfG-suyK3W8LM/edit?usp=sharing">🖥️ Hyperspectral Image Gradients (HPC)</a></h3>
+      <p>Optimizing color morphological gradient calculation on large hyperspectral images with parallel, high-performance computing.</p>
+      <p><sub>HPC 6030 · Dec 2023</sub></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://drive.google.com/file/d/19nzg1F7CzoGvFh50DZ0PP9eFHzKnmhsD/view?usp=sharing">🏈 NFL Draft vs. School Size</a></h3>
+      <p>Statistical analysis of whether collegiate school size predicts draft position and career longevity.</p>
+      <p><sub>Intro to Data Science · Apr 2024</sub></p>
+    </td>
+  </tr>
+</table>
+
+---
+
 ## 💼 Experience
 
 | Role | Where | When |
@@ -75,19 +120,6 @@ I'm **Jensen**, a network engineer and developer at **[Air2Data](https://air2dat
 
 - **M.S., Anticipatory Intelligence (Cybersecurity emphasis)**, Utah State University, in progress. Capstone underway: an analysis of local law enforcement's capability to combat evolving illicit UAS (drone) delivery methods
 - **B.S., Computer Science**, Utah State University, 2024 (electives focused on network security, applied cryptography, malware analysis, digital forensics and ethical hacking)
-
----
-
-## 📚 Research & publications
-
-Graduate and undergraduate research briefs from Utah State University:
-
-- [**New Zealand: Best Practices in Resisting Opioid Harms**](https://docs.google.com/document/d/1u2HnRx7dAJJJRPKuQTdh-KELjDgvy51vdzDrEE8Qa-k/edit?usp=drive_link): cultural-topography analysis of positive deviance
-- **Strategic Ambiguity and Regional Stability: Israel's WMD Outlook 2025–2030**: policy brief for decision makers
-- [**Ukraine's Drone Arms Race: A Looming Threat to U.S. Military Dominance**](https://docs.google.com/document/d/1mnwGk3_yvZOasZcw4_gjPLqs6mSdnCifjs21l3TDK1Q/edit?usp=sharing)
-- [**Satellite Jamming: A Catalyst for Escalation and a Threat to U.S. Space-Based Operations**](https://docs.google.com/document/d/15s0rW9HP7aPLOYpc24uTVbBJVUN4qMbn8hBxn0JzGuY/edit?usp=sharing)
-- [**NFL Draft Prospects & Career Performance vs. Collegiate School Size**](https://drive.google.com/file/d/19nzg1F7CzoGvFh50DZ0PP9eFHzKnmhsD/view?usp=sharing): data-science project
-- [**Robust Color Morphological Gradient Calculation on Large Hyperspectral Images**](https://docs.google.com/document/d/1fujkmDhpluQwopIO22uWDYjPQv47Z1pfG-suyK3W8LM/edit?usp=sharing): high-performance computing
 
 ---
 
