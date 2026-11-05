@@ -1,0 +1,21 @@
+name: Latest blog posts
+
+# Optional. Set feed_list to your RSS feed(s), e.g. https://dev.to/feed/YOUR_HANDLE
+# Delete this file (and the "Latest writing" README section) if you don't blog.
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://dev.to/feed/TODO-your-handle"
+          max_post_count: 5
