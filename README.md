@@ -20,7 +20,7 @@
 I'm **Jensen**, a network engineer and developer at **[Air2Data](https://air2data.com)** in Utah. I build and run the systems that keep hospitality and apartment Wi-Fi online, and I like turning messy operational problems into automated, repeatable ones. I'm also finishing a master's in Anticipatory Intelligence with a cybersecurity emphasis, so I think about how networks fail *and* how they get attacked.
 
 - 🏢 **Now:** Head of Research & Design at Air2Data
-- 📡 **Day to day:** researching and procuring hospitality Wi-Fi equipment, building internal systems, maintaining production, and doing hands-on network engineering with MikroTik
+- 📡 **Day to day:** researching and procuring hospitality Wi-Fi equipment, building internal systems, maintaining production, hands-on network engineering with MikroTik, and advancing the company's security posture
 - 🎓 **Studying:** M.S. Anticipatory Intelligence (Cybersecurity), Utah State University
 - 💬 **Ask me about:** MikroTik / RouterOS, network automation at scale, hospitality Wi-Fi, security analysis
 - 🏊 **Off the clock:** college club swimmer, 5x national qualifier, 3 Utah State relay records
@@ -87,6 +87,7 @@ I'm **Jensen**, a network engineer and developer at **[Air2Data](https://air2dat
 - Design and maintain the automation tools, scripts and databases that manage configuration, monitoring and updates across every node.
 - Resolve the hardest escalations (routing, wireless, VLAN and hotspot) that lower tiers can't, and mentor Tier 1/2 staff with documentation.
 - Research and procure new hospitality Wi-Fi equipment, and build and manage new internal systems.
+- Advance and track the company's security posture: assessing risk, hardening systems and monitoring improvements over time.
 
 **At Utah State University IT**
 - Monitored and responded to system, network and application log events; took part in vulnerability assessments, threat hunting and incident response.
