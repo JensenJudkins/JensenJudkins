@@ -8,7 +8,7 @@
 
 [![Profile Views](https://komarev.com/ghpvc/?username=JensenJudkins&label=Profile%20views&color=2c5364&style=flat-square)](https://github.com/JensenJudkins)
 [![Followers](https://img.shields.io/github/followers/JensenJudkins?label=Followers&style=flat-square&color=2c5364)](https://github.com/JensenJudkins?tab=followers)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/TODO-your-handle)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jensen-judkins-aab55a18b)
 [![Email](https://img.shields.io/badge/Email-Say%20hi-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:jensenjudkins@gmail.com)
 
 </div>
@@ -23,6 +23,7 @@ I'm **Jensen**, a network engineer and developer at **[Air2Data](https://air2dat
 - 📡 **Day to day:** researching and procuring hospitality Wi-Fi equipment, building internal systems, maintaining production, hands-on network engineering with MikroTik, and advancing the company's security posture
 - 🎓 **Studying:** M.S. Anticipatory Intelligence (Cybersecurity), Utah State University
 - 💬 **Ask me about:** MikroTik / RouterOS, network automation at scale, hospitality Wi-Fi, security analysis
+- 🗣️ **Languages:** English
 - 🏊 **Off the clock:** college club swimmer, 5x national qualifier, 3 Utah State relay records
 
 ---
@@ -48,31 +49,6 @@ I'm **Jensen**, a network engineer and developer at **[Air2Data](https://air2dat
 
 <img src="https://skillicons.dev/icons?i=linux,bash,git,github,githubactions&theme=dark" alt="tools" />
 
-<sub>Tip: add your programming languages and databases here (icon IDs at skillicons.dev).</sub>
-
----
-
-## 🚀 Featured projects
-
-<!-- Fill these in with your pinned repos. Lead with outcomes. -->
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/JensenJudkins/TODO-repo-1">📡 TODO Project One</a></h3>
-      <p>One sentence on what it does and who it's for.</p>
-      <p><b>Impact:</b> TODO (e.g. config pushed to N sites, hours saved).</p>
-      <p><a href="https://github.com/JensenJudkins/TODO-repo-1">Code</a></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/JensenJudkins/TODO-repo-2">🛡️ TODO Project Two</a></h3>
-      <p>One sentence on what it does and who it's for.</p>
-      <p><b>Impact:</b> TODO.</p>
-      <p><a href="https://github.com/JensenJudkins/TODO-repo-2">Code</a></p>
-    </td>
-  </tr>
-</table>
-
 ---
 
 ## 💼 Experience
@@ -97,7 +73,7 @@ I'm **Jensen**, a network engineer and developer at **[Air2Data](https://air2dat
 
 ## 🎓 Education
 
-- **M.S., Anticipatory Intelligence (Cybersecurity emphasis)**, Utah State University
+- **M.S., Anticipatory Intelligence (Cybersecurity emphasis)**, Utah State University, in progress. Capstone underway: an analysis of local law enforcement's capability to combat evolving illicit UAS (drone) delivery methods
 - **B.S., Computer Science**, Utah State University, 2024 (electives focused on network security, applied cryptography, malware analysis, digital forensics and ethical hacking)
 
 ---
@@ -142,7 +118,7 @@ Graduate and undergraduate research briefs from Utah State University:
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/TODO-your-handle)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jensen-judkins-aab55a18b)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jensenjudkins@gmail.com)
 
 </div>
