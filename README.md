@@ -4,6 +4,10 @@
 
 <div align="center">
 
+<a href="https://github.com/JensenJudkins"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=Network+engineer+%26+automation+builder;Powering+1%2C000%2B+MikroTik-based+hospitality+sites;Cybersecurity+%C2%B7+Anticipatory+Intelligence" alt="Typing SVG" /></a>
+
+<br/>
+
 [![Profile Views](https://komarev.com/ghpvc/?username=JensenJudkins&label=Profile%20views&color=2c5364&style=flat-square)](https://github.com/JensenJudkins)
 [![Followers](https://img.shields.io/github/followers/JensenJudkins?label=Followers&style=flat-square&color=2c5364)](https://github.com/JensenJudkins?tab=followers)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jensen-judkins-aab55a18b)
