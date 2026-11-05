@@ -23,6 +23,7 @@ I'm **Jensen**, a network engineer and developer at **[Air2Data](https://air2dat
 
 - **Now:** Head of Research & Design at Air2Data
 - **Day to day:** researching and procuring hospitality Wi-Fi equipment, building internal systems, maintaining production, hands-on network engineering with MikroTik, and advancing the company's security posture
+- **Business:** owner of [Judkins Technologies](https://judkinstechnologies.com)
 - **Studying:** M.S. Anticipatory Intelligence (Cybersecurity), Utah State University
 - **Ask me about:** MikroTik / RouterOS, network automation at scale, hospitality Wi-Fi, security analysis
 - **Languages:** English
@@ -50,6 +51,39 @@ I'm **Jensen**, a network engineer and developer at **[Air2Data](https://air2dat
 **Tools**
 
 <img src="https://skillicons.dev/icons?i=linux,bash,git,github,githubactions&theme=dark" alt="tools" />
+
+---
+
+## Judkins Technologies and projects
+
+I run **[Judkins Technologies](https://judkinstechnologies.com)**, my own business, and build the products and client sites below. The source repositories are private, but each site is live.
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://judkinstechnologies.com">Judkins Technologies</a></h3>
+      <p>My business. It's the home of my products and client work.</p>
+      <p><a href="https://judkinstechnologies.com">Visit site</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://when2pick.com">when2pick.com</a></h3>
+      <p>A product of Judkins Technologies.</p>
+      <p><a href="https://when2pick.com">Visit site</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://opencartridge.com">opencartridge.com</a></h3>
+      <p>Another product of Judkins Technologies.</p>
+      <p><a href="https://opencartridge.com">Visit site</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://judkinscustomtaxidermy.com">judkinscustomtaxidermy.com</a></h3>
+      <p>A website I built for a paying client, Judkins Custom Taxidermy.</p>
+      <p><a href="https://judkinscustomtaxidermy.com">Visit site</a></p>
+    </td>
+  </tr>
+</table>
 
 ---
 
