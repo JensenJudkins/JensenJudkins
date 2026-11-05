@@ -15,20 +15,20 @@
 
 ---
 
-## 👋 About me
+## About me
 
 I'm **Jensen**, a network engineer and developer at **[Air2Data](https://air2data.com)** in Utah. I build and run the systems that keep hospitality and apartment Wi-Fi online, and I like turning messy operational problems into automated, repeatable ones. I'm also finishing a master's in Anticipatory Intelligence with a cybersecurity emphasis, so I think about how networks fail *and* how they get attacked.
 
-- 🏢 **Now:** Head of Research & Design at Air2Data
-- 📡 **Day to day:** researching and procuring hospitality Wi-Fi equipment, building internal systems, maintaining production, hands-on network engineering with MikroTik, and advancing the company's security posture
-- 🎓 **Studying:** M.S. Anticipatory Intelligence (Cybersecurity), Utah State University
-- 💬 **Ask me about:** MikroTik / RouterOS, network automation at scale, hospitality Wi-Fi, security analysis
-- 🗣️ **Languages:** English
-- 🏊 **Off the clock:** college club swimmer, 5x national qualifier, 3 Utah State relay records
+- **Now:** Head of Research & Design at Air2Data
+- **Day to day:** researching and procuring hospitality Wi-Fi equipment, building internal systems, maintaining production, hands-on network engineering with MikroTik, and advancing the company's security posture
+- **Studying:** M.S. Anticipatory Intelligence (Cybersecurity), Utah State University
+- **Ask me about:** MikroTik / RouterOS, network automation at scale, hospitality Wi-Fi, security analysis
+- **Languages:** English
+- **Off the clock:** college club swimmer, 5x national qualifier, 3 Utah State relay records
 
 ---
 
-## 🛠 Tech & skills
+## Tech & skills
 
 **Networking & infrastructure**
 
@@ -51,43 +51,43 @@ I'm **Jensen**, a network engineer and developer at **[Air2Data](https://air2dat
 
 ---
 
-## 🔬 Featured research
+## Featured research
 
 Course finals and briefs from my graduate and undergraduate work at Utah State University (Center for Anticipatory Intelligence, Computer Science).
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://docs.google.com/document/d/1mnwGk3_yvZOasZcw4_gjPLqs6mSdnCifjs21l3TDK1Q/edit?usp=sharing">🛸 Ukraine's Drone Arms Race</a></h3>
+      <h3><a href="https://docs.google.com/document/d/1mnwGk3_yvZOasZcw4_gjPLqs6mSdnCifjs21l3TDK1Q/edit?usp=sharing">Ukraine's Drone Arms Race</a></h3>
       <p>How low-cost UAS and battlefield adaptation are eroding U.S. military advantages, and what that means for force structure, counter-UAS and procurement.</p>
       <p><sub>CAI 5000 · Dec 2024</sub></p>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://docs.google.com/document/d/15s0rW9HP7aPLOYpc24uTVbBJVUN4qMbn8hBxn0JzGuY/edit?usp=sharing">🛰️ Satellite Jamming</a></h3>
+      <h3><a href="https://docs.google.com/document/d/15s0rW9HP7aPLOYpc24uTVbBJVUN4qMbn8hBxn0JzGuY/edit?usp=sharing">Satellite Jamming</a></h3>
       <p>Jamming as both a tactical capability and an escalation vector, and its implications for space resilience, deterrence and policy.</p>
       <p><sub>CAI 5540 · Dec 2024</sub></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://docs.google.com/document/d/1u2HnRx7dAJJJRPKuQTdh-KELjDgvy51vdzDrEE8Qa-k/edit?usp=drive_link">💊 New Zealand: Resisting Opioid Harms</a></h3>
+      <h3><a href="https://docs.google.com/document/d/1u2HnRx7dAJJJRPKuQTdh-KELjDgvy51vdzDrEE8Qa-k/edit?usp=drive_link">New Zealand: Resisting Opioid Harms</a></h3>
       <p>Applied the CIA's Cultural Topography method to explain New Zealand's resilience to opioid harms and what transfers to the U.S.</p>
       <p><sub>CAI 5310</sub></p>
     </td>
     <td width="50%" valign="top">
-      <h3>☢️ Israel's WMD Outlook 2025–2030</h3>
+      <h3>Israel's WMD Outlook 2025–2030</h3>
       <p>A strategic-ambiguity analysis of Israel's nuclear posture and hostile neighbors, written as a policy brief for NATO decision makers.</p>
       <p><sub>CAI 6530</sub></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://docs.google.com/document/d/1fujkmDhpluQwopIO22uWDYjPQv47Z1pfG-suyK3W8LM/edit?usp=sharing">🖥️ Hyperspectral Image Gradients (HPC)</a></h3>
+      <h3><a href="https://docs.google.com/document/d/1fujkmDhpluQwopIO22uWDYjPQv47Z1pfG-suyK3W8LM/edit?usp=sharing">Hyperspectral Image Gradients (HPC)</a></h3>
       <p>Optimizing color morphological gradient calculation on large hyperspectral images with parallel, high-performance computing.</p>
       <p><sub>HPC 6030 · Dec 2023</sub></p>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://drive.google.com/file/d/19nzg1F7CzoGvFh50DZ0PP9eFHzKnmhsD/view?usp=sharing">🏈 NFL Draft vs. School Size</a></h3>
+      <h3><a href="https://drive.google.com/file/d/19nzg1F7CzoGvFh50DZ0PP9eFHzKnmhsD/view?usp=sharing">NFL Draft vs. School Size</a></h3>
       <p>Statistical analysis of whether collegiate school size predicts draft position and career longevity.</p>
       <p><sub>Intro to Data Science · Apr 2024</sub></p>
     </td>
@@ -96,7 +96,7 @@ Course finals and briefs from my graduate and undergraduate work at Utah State U
 
 ---
 
-## 💼 Experience
+## Experience
 
 | Role | Where | When |
 |---|---|---|
@@ -116,14 +116,14 @@ Course finals and briefs from my graduate and undergraduate work at Utah State U
 
 ---
 
-## 🎓 Education
+## Education
 
 - **M.S., Anticipatory Intelligence (Cybersecurity emphasis)**, Utah State University, in progress. Capstone underway: an analysis of local law enforcement's capability to combat evolving illicit UAS (drone) delivery methods
 - **B.S., Computer Science**, Utah State University, 2024 (electives focused on network security, applied cryptography, malware analysis, digital forensics and ethical hacking)
 
 ---
 
-## 📊 GitHub stats
+## GitHub stats
 
 <div align="center">
 
@@ -134,7 +134,7 @@ Course finals and briefs from my graduate and undergraduate work at Utah State U
 
 </div>
 
-### 🐍 Contribution snake
+### Contribution snake
 
 <div align="center">
   <picture>
@@ -146,7 +146,7 @@ Course finals and briefs from my graduate and undergraduate work at Utah State U
 
 ---
 
-## 📫 Let's connect
+## Let's connect
 
 <div align="center">
 
